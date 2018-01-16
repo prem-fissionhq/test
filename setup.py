@@ -1,1 +1,1 @@
-version_string='v1.0.1'
+version_string='v1.0.2'

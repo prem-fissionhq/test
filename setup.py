@@ -10,6 +10,7 @@ version='v2.1.4'
 __version__ = 'v2.1.4'
 version_string = 'v2.1.4'
 version_prem = 'v2.1.4'
+prem_version = ["v2.1.4","v2.1.4"]
 try:
     from setuptools import Extension, setup
 except ImportError:

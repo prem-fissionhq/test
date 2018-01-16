@@ -6,11 +6,11 @@ import contextlib
 from pip.req import parse_requirements
 
 
-version='v2.1.5'
-__version__ = 'v2.1.5'
-version_string = 'v2.1.5'
-version_prem = 'v2.1.5'
-prem_version = ["v2.1.5","v2.1.5"]
+version='v2.1.6'
+__version__ = 'v2.1.6'
+version_string = 'v2.1.6'
+version_prem = 'v2.1.6'
+prem_version = ["v2.1.6","v2.1.6"]
 version_bekar="prem"
 try:
     from setuptools import Extension, setup

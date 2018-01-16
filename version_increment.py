@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
-version='v3.0.0'
+version='v3.0.1'
 

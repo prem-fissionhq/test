@@ -6,10 +6,10 @@ import contextlib
 from pip.req import parse_requirements
 
 
-version='v2.1.3'
-__version__ = 'v2.1.3'
-version_string = 'v2.1.3'
-version_prem = 'v2.1.3'
+version='v2.1.4'
+__version__ = 'v2.1.4'
+version_string = 'v2.1.4'
+version_prem = 'v2.1.4'
 try:
     from setuptools import Extension, setup
 except ImportError:

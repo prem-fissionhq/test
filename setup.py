@@ -7,6 +7,9 @@ from pip.req import parse_requirements
 
 
 version='v2.1.2'
+__version__ = 'v2.1.2'
+version_string = 'v2.1.2'
+
 try:
     from setuptools import Extension, setup
 except ImportError:

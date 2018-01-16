@@ -11,6 +11,7 @@ __version__ = 'v2.1.5'
 version_string = 'v2.1.5'
 version_prem = 'v2.1.5'
 prem_version = ["v2.1.5","v2.1.5"]
+version_bekar="prem"
 try:
     from setuptools import Extension, setup
 except ImportError:

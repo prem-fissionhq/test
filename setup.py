@@ -5,6 +5,8 @@ import sys
 import contextlib
 from pip.req import parse_requirements
 
+
+version='v2.1.1'
 try:
     from setuptools import Extension, setup
 except ImportError:

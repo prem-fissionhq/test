@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
-version='v2.1.6'
+version='v3.0.0'
 
